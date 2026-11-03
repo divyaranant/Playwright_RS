@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","33794","@Web Client App login","chromium","2026-11-02","broken","2026-11-02","","WebClientAppLogin.spec.js","",""
+"","35804","@Webst Client App login","chromium","2026-11-02","broken","2026-11-02","","WebClientEndtoEndRS.spec.js","",""
+"","14108","@Web Client App login 2","chromium","2026-11-02","failed","2026-11-02","","ClinetAppLoginCopy.spec.js","",""
+"","29727","@Web Client App login","chromium","2026-11-02","passed","2026-11-02","","ClientAppOtherWay.spec.js","",""
+"","36026","@Webst Client App login","chromium","2026-11-02","broken","2026-11-02","","ClientAppOtherWayRS.spec.js","",""
+"","26180","@Web Client App login 1","chromium","2026-11-02","passed","2026-11-02","","ClinetAppLoginCopy.spec.js","",""
